@@ -1,0 +1,7 @@
+name             'tags'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures tags'
+long_description 'Installs/Configures tags'
+version          '0.1.0'
